@@ -15,5 +15,5 @@ Submission
 
 •	Upon completion,we will hand in our work with the fully commented notebook of the cleaned dataset and the final link to the dashboard.
 
-TURMAN
+Team TURMAN
 Serhat Tozar & Konstantin Schaetz
