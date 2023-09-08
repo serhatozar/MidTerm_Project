@@ -1,7 +1,7 @@
 # MidTerm_Project - Seller Performance of an Amazon Retailer to the EU and outside of the EU
 
 
-We are working with one real dataset (1916 rows x 96 columns) sourced by eVat TAX compliance start-up. The dataset depicts all of the sales of one Amazon Retail Seller Shop for the year of 2022. We want to gain insights on how the seller is doing based on revenue, customers, different products, countries, shipping options, warehouses etc. and visualize our findings with Tableau.
+We are working with one real dataset (9539 rows x 96 columns) sourced by eVat TAX compliance start-up. The dataset depicts all of the sales of one Amazon Retail Seller Shop for the year of 2022. We want to gain insights on how the seller is doing based on revenue, customers, different products, countries, shipping options, warehouses etc. and visualize our findings with Tableau.
 
 Challenge
 
